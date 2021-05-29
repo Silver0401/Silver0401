@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Silver0401/Silver0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Greetings Travelers 🖖🏼
 
-Here are some ideas to get you started:
+## My name is Ismael, I'm from Mexico 🇲🇽 and I am currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Medicine Student 🫀
+- A Fullstack Web Developer 👾
+- An App Coder 📱
+- A Robotics Enthusiast 🤖
+
+## You can 💬 Ask me about
+
+- React and React Native ⚛️
+- Javascript and Typescript 🔮
+- Python and RobotPy 🐍
+- CSS and Styling 🎀
+- Backend and DataBases 🧮
+
+### I currently own and manage the software development company known as "Smort Technology", where we transform any idea you have into a functioning app or website. If interested you can always 📫 reach me at
+
+- Personal Email: Prosilver05@gmail.com
+- Personal Phone: +52 771 411 6235
+- Instagram @Isma.mzco
+- Personal Compnay: www.smort.tech
+
+
