@@ -1,7 +1,7 @@
 
 # Greetings Travelers 🖖🏼
 
-## My name is Ismael, I'm from Mexico 🇲🇽 and I am currently:
+## My name is Ismael, I'm from Mexico 🇲🇽 and I am currently
 
 - A Medicine Student 🫀
 - A Fullstack Web Developer 👾
