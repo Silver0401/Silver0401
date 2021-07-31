@@ -22,7 +22,7 @@
 - Personal Email: Prosilver05@gmail.com
 - Personal Phone: +52 771 411 6235
 - Instagram @Isma.mzco
-- Personal Portafolio Website: https://silver0401.github.io/
+- Personal Portafolio Website with CV: https://silver0401.github.io/
 - Personal Compnay: www.smort.tech
 
 
