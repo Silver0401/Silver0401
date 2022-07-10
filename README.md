@@ -15,7 +15,7 @@
 - Python and RobotPy 🐍
 - CSS and Styling 🎀
 - Backend and DataBases 🧮
-- Medcine and Health Thingies 🧠 👀
+- Medicine and Health Thingies 🧠 👀
 
 ### I currently own and manage the software development company known as "Smort Technology", where we transform any idea you have into a functioning app or website. If interested you can always 📫 reach me at
 
